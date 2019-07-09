@@ -1,0 +1,40 @@
+body{
+   
+}
+
+
+h1{
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+}
+.para1{
+	font-size: 25px;
+	margin-left: 550px;
+	color: grey;
+	
+}
+.para2{
+	width: 600px;
+	height: 40px;
+	border: black 1px solid;
+	line-height: 40px;
+	font-size: 35px;
+	margin-left: 350px;
+	color: green;
+	
+}
+button{
+	background-color: cornflowerblue;
+	color: white;
+	width: 40px;
+	height: 40px;
+	font-size: 35px;
+	line-height: 40px;
+	border-radius: 10%;
+	margin: 10px;
+	
+}
+#plus{
+	margin-left: 600px;
+}
